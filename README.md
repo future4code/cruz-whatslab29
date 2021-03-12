@@ -1,6 +1,6 @@
 # WhatsLab - Grupo 29
 
-<a href="http://didactic-surprise.surge.sh/" target="_blank">http://didactic-surprise.surge.sh/</a>
+<p align="center">http://didactic-surprise.surge.sh/</p>
 
 ### Funcionamento
 
